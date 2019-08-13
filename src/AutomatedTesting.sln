@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTesting", "AutomatedTestingFramework\AutomatedTesting.csproj", "{9CF8579A-5BC9-48A9-9305-B9EBC96F170D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTesting", "AutomatedTesting\AutomatedTesting.csproj", "{9CF8579A-5BC9-48A9-9305-B9EBC96F170D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTesting.Console", "AutomatedTestingFramework.Console\AutomatedTesting.Console.csproj", "{2FBF39AC-901A-4FC8-A79E-FA953645D0A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTesting.Console", "AutomatedTesting.Console\AutomatedTesting.Console.csproj", "{2FBF39AC-901A-4FC8-A79E-FA953645D0A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

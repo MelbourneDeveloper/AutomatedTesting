@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AutomatedTestingFramework\AutomatedTesting.csproj">
+    <ProjectReference Include="..\AutomatedTesting\AutomatedTesting.csproj">
       <Project>{9cf8579a-5bc9-48a9-9305-b9ebc96f170d}</Project>
       <Name>AutomatedTesting</Name>
     </ProjectReference>
