@@ -1,4 +1,4 @@
-﻿using AutomatedTestingFramework.Model;
+﻿using AutomatedTesting.Model;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Automation;
 using static System.Windows.Automation.AutomationElement;
 
-namespace AutomatedTestingFramework
+namespace AutomatedTesting
 {
     public class AutomatedTester
     {

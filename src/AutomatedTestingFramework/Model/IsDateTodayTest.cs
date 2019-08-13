@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     /// <summary>
     /// A test to see if the value from an Element is a date, and that date is today's date

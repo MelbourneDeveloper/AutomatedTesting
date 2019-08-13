@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace AutomatedTestingFramework
+namespace AutomatedTesting
 {
     public static class WindowsAPI
     {

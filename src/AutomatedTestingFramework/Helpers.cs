@@ -1,4 +1,4 @@
-﻿using AutomatedTestingFramework.Model;
+﻿using AutomatedTesting.Model;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml.Serialization;
 
-namespace AutomatedTestingFramework
+namespace AutomatedTesting
 {
     public static class Helpers
     {

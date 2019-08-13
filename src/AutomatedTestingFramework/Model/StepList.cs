@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     [Serializable]
     [XmlInclude(typeof(ClickStep))]

@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     public interface IGetValueStep
     {

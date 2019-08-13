@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     public interface IExecutable
     {

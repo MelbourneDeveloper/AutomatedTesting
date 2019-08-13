@@ -1,5 +1,5 @@
 ﻿
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Gets an Element

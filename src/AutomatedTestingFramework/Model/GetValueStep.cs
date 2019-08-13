@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Gets the value of an Element and stores it for later use

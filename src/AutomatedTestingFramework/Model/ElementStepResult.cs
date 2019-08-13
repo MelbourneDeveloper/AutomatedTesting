@@ -1,7 +1,7 @@
 ﻿using System.Windows.Automation;
 using System.Xml.Serialization;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Result of an ElementStep

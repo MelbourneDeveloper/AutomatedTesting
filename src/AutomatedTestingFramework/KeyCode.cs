@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework
+﻿namespace AutomatedTesting
 {
     public enum KeyCode : ushort
     {

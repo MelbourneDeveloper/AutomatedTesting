@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Simulates a mouse click on an element

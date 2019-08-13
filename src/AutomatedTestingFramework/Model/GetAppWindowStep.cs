@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Gets the main app window

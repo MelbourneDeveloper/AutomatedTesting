@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace AutomatedTestingFramework
+namespace AutomatedTesting
 {
     public class RegexUtilities
     {

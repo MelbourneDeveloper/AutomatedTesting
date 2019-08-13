@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Calls the 'Invoke' pattern on an Element. This is usually for simulating a button click.

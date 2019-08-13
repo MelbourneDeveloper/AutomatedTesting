@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AutomatedTestingFramework\AutomatedTestingFramework.csproj">
+    <ProjectReference Include="..\AutomatedTestingFramework\AutomatedTesting.csproj">
       <Project>{9cf8579a-5bc9-48a9-9305-b9ebc96f170d}</Project>
-      <Name>AutomatedTestingFramework</Name>
+      <Name>AutomatedTesting</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

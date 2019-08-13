@@ -1,9 +1,9 @@
-﻿using AutomatedTestingFramework.Model;
+﻿using AutomatedTesting.Model;
 using System;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace AutomatedTestingFramework.Console
+namespace AutomatedTesting.Console
 {
     internal class Program
     {

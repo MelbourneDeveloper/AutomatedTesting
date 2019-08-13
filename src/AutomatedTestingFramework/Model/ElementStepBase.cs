@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Xml.Serialization;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     /// <summary>
     /// Gets an element by AutomationId or by Name

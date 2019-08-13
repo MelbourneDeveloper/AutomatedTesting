@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     public class UseCase
     {

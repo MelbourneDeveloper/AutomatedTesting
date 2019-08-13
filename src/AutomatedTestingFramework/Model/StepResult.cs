@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Serialization;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     public class StepResult
     {

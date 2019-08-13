@@ -1,4 +1,4 @@
-﻿namespace AutomatedTestingFramework.Model
+﻿namespace AutomatedTesting.Model
 {
     /// <summary>
     /// A test to see if the value from an Element is an integer and optionally checks to see if it is not zero.

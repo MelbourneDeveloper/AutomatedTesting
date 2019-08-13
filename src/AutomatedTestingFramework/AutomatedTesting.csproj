@@ -7,8 +7,8 @@
     <ProjectGuid>{9CF8579A-5BC9-48A9-9305-B9EBC96F170D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutomatedTestingFramework</RootNamespace>
-    <AssemblyName>AutomatedTestingFramework</AssemblyName>
+    <RootNamespace>AutomatedTesting</RootNamespace>
+    <AssemblyName>AutomatedTesting</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

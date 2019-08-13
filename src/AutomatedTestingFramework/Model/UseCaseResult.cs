@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Xml.Serialization;
 
-namespace AutomatedTestingFramework.Model
+namespace AutomatedTesting.Model
 {
     public class UseCaseResult
     {
